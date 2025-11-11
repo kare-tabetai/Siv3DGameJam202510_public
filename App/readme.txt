@@ -54,18 +54,9 @@ Q&A
   Springin’ Sound Stock
    https://www.springin.org/sound-stock/
    タイピング メカニカル単1, タイピング メカニカル単2, タイピング メカニカル単3, タイピング パンタグラフ単1, wrench02
-  OtoLogic
-   https://otologic.jp/
-   wrench02, PC マウス05, ホワイトノイズ
   Classix
    https://classix.sitefactory.info/index.html
    Ｇ線上のアリア, 花のワルツ, ハンガリー舞曲, 月の光
-  無料効果音で遊ぼう！
-   https://taira-komori.net/index.html
-   排気ダクト
-  効果音辞典
-   https://sounddictionary.info/
-   静かな部屋1
   ICOOON MONO
    https://icooon-mono.com/
    目アイコン6
