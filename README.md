@@ -7,6 +7,8 @@
 1. Siv3Dのv0.6.16をインストールします。もしくは、Siv3Dの最新版をインストールし、Siv3DFrameWorkNoCuda.vcxproj/Siv3DFrameWork.vcxprojのSiv3Dのバージョンに対応した部分を最新のバージョン番号に書き換えます
 2. 「Qwen3-4B-Instruct-2507.gguf」を./App/LlmModel直下に移動します
    - 「Qwen3-4B-Instruct-2507.gguf」はHugging FaceのQwen3のページからDLしてきたSafetensors形式のファイルをllama.cppを用いてggufに変換するか、Hugging Faceのunslothのページにある変換済みのggufを使ってください
+     - https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507
+     - https://huggingface.co/unsloth/Qwen3-4B-Instruct-2507-GGUF
 3. CUDA使用可能な環境であれば、Siv3DFrameWork.vcxprojをビルドすることでCUDA対応の実行ファイルが./App以下に生成されます。CUDA使用不可の環境であれば、Siv3DFrameWorkNoCuda.vcxprojをビルドしてください
    - ReleaseビルドではNoCudaでも十分な速度が出る想定です
 
