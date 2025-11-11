@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Run Siv3D App",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/App/Siv3DFrameWork(debug).exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/Intermediate/Siv3DFrameWork/Debug",
+            "environment": [],
+            "console": "integratedTerminal",
+            "preLaunchTask": "Post Build - Copy Files",
+        }
+        ,
+        {
+            "name": "Run Siv3D App (NoCuda)",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/App/Siv3DFrameWorkNoCuda(debug).exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${workspaceFolder}/Intermediate/Siv3DFrameWorkNoCuda/Debug",
+            "environment": [],
+            "console": "integratedTerminal",
+            "preLaunchTask": "Post Build - Copy Files (NoCuda)" 
+        }
+    ]
+}

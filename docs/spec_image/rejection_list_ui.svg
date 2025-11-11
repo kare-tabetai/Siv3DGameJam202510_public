@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.74999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="rejection_list_ui.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1776.2522"
+     inkscape:cy="571.34228"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="82"
+       y="89.368273"
+       width="512"
+       height="89.368273"
+       id="rect342" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5-1" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-6" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect1225" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g5623"
+       inkscape:export-filename="spec_image\rejection_ui.png"
+       inkscape:export-xdpi="95.750648"
+       inkscape:export-ydpi="95.750648"
+       transform="translate(1348.3166,481.54165)">
+      <g
+         id="g9583-0-3"
+         transform="translate(-1348.3167,-481.54163)">
+        <rect
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.406165;stroke-linecap:round;stroke-linejoin:round"
+           id="rect234-2-5"
+           width="508"
+           height="35.317036"
+           x="0"
+           y="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.48526588,0,0,0.48526588,-30.680582,-39.967125)"
+           id="text340-1-9"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';white-space:pre;shape-inside:url(#rect342-5-5);display:inline"><tspan
+             x="82"
+             y="129.56914"
+             id="tspan648"><tspan
+               style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff"
+               id="tspan646">2031/06/22</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.3399px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.458499"
+           x="141.51273"
+           y="21.409792"
+           id="text398-9-7"
+           transform="scale(0.99246876,1.0075884)"><tspan
+             sodipodi:role="line"
+             id="tspan396-6-9"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff;stroke-width:0.458499"
+             x="141.51273"
+             y="21.409792">あと1日</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.1556px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.40389"
+           x="428.86066"
+           y="21.595259"
+           id="text510-8-6"><tspan
+             sodipodi:role="line"
+             id="tspan508-6-5"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff;stroke-width:0.40389"
+             x="428.86066"
+             y="21.595259">精神力:12</tspan></text>
+      </g>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9314-1-7"
+         width="508"
+         height="285.75"
+         x="-1348.3167"
+         y="-481.54166" />
+      <g
+         id="g10036"
+         transform="translate(-550.83357,-419.21347)">
+        <rect
+           style="fill:#f2f2f2;fill-rule:evenodd;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect5790"
+           width="452.75458"
+           height="210.24852"
+           x="-769.86041"
+           y="-3.8076782" />
+        <g
+           id="g8815"
+           transform="translate(-21.566635,-13.54843)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect5792"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text5894"><tspan
+               sodipodi:role="line"
+               id="tspan5892"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text5898"><tspan
+               sodipodi:role="line"
+               id="tspan5896"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text7354"><tspan
+               sodipodi:role="line"
+               id="tspan7352"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8831"
+           transform="translate(-21.566635,1.595734)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8817"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8821"><tspan
+               sodipodi:role="line"
+               id="tspan8819"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8825"><tspan
+               sodipodi:role="line"
+               id="tspan8823"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8829"><tspan
+               sodipodi:role="line"
+               id="tspan8827"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8847"
+           transform="translate(-21.566635,16.909233)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8833"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8837"><tspan
+               sodipodi:role="line"
+               id="tspan8835"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8841"><tspan
+               sodipodi:role="line"
+               id="tspan8839"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8845"><tspan
+               sodipodi:role="line"
+               id="tspan8843"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8863"
+           transform="translate(-21.566635,32.392067)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8849"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8853"><tspan
+               sodipodi:role="line"
+               id="tspan8851"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8857"><tspan
+               sodipodi:role="line"
+               id="tspan8855"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8861"><tspan
+               sodipodi:role="line"
+               id="tspan8859"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8879"
+           transform="translate(-21.566635,48.044236)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8865"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8869"><tspan
+               sodipodi:role="line"
+               id="tspan8867"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8873"><tspan
+               sodipodi:role="line"
+               id="tspan8871"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8877"><tspan
+               sodipodi:role="line"
+               id="tspan8875"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8895"
+           transform="translate(-21.566635,63.865741)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8881"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8885"><tspan
+               sodipodi:role="line"
+               id="tspan8883"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8889"><tspan
+               sodipodi:role="line"
+               id="tspan8887"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8893"><tspan
+               sodipodi:role="line"
+               id="tspan8891"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8911"
+           transform="translate(-21.566635,78.152651)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8897"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8901"><tspan
+               sodipodi:role="line"
+               id="tspan8899"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8905"><tspan
+               sodipodi:role="line"
+               id="tspan8903"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8909"><tspan
+               sodipodi:role="line"
+               id="tspan8907"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8927"
+           transform="translate(-21.566635,92.608896)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8913"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8917"><tspan
+               sodipodi:role="line"
+               id="tspan8915"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8921"><tspan
+               sodipodi:role="line"
+               id="tspan8919"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8925"><tspan
+               sodipodi:role="line"
+               id="tspan8923"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8943"
+           transform="translate(-21.566635,107.23448)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8929"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8933"><tspan
+               sodipodi:role="line"
+               id="tspan8931"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8937"><tspan
+               sodipodi:role="line"
+               id="tspan8935"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8941"><tspan
+               sodipodi:role="line"
+               id="tspan8939"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8959"
+           transform="translate(-21.566635,122.0294)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8945"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8949"><tspan
+               sodipodi:role="line"
+               id="tspan8947"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8953"><tspan
+               sodipodi:role="line"
+               id="tspan8951"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8957"><tspan
+               sodipodi:role="line"
+               id="tspan8955"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8975"
+           transform="translate(-21.566635,136.99366)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8961"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8965"><tspan
+               sodipodi:role="line"
+               id="tspan8963"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8969"><tspan
+               sodipodi:role="line"
+               id="tspan8967"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8973"><tspan
+               sodipodi:role="line"
+               id="tspan8971"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+        <g
+           id="g8991"
+           transform="translate(-21.566635,152.12726)">
+          <rect
+             style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.04992;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+             id="rect8977"
+             width="434.35623"
+             height="14.094244"
+             x="-739.0946"
+             y="23.411779" />
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-736.84564"
+             y="34.448807"
+             id="text8981"><tspan
+               sodipodi:role="line"
+               id="tspan8979"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';fill:#ff0000;stroke-width:0.264583"
+               x="-736.84564"
+               y="34.448807">不採用</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-702.04718"
+             y="34.417057"
+             id="text8985"><tspan
+               sodipodi:role="line"
+               id="tspan8983"
+               style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Bold';stroke-width:0.264583"
+               x="-702.04718"
+               y="34.417057">〇×グループ株式会社</tspan></text>
+          <text
+             xml:space="preserve"
+             style="font-weight:500;font-size:7.05556px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+             x="-590.4895"
+             y="33.224682"
+             id="text8989"><tspan
+               sodipodi:role="line"
+               id="tspan8987"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:7.05556px;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.264583"
+               x="-590.4895"
+               y="33.224682">選考を行った結果、今回はご期待に沿えない結果となりました。ご応募いただき誠にあ...</tspan></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.74999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="message_window.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.25"
+     inkscape:cx="1312"
+     inkscape:cy="848"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="82"
+       y="89.368273"
+       width="512"
+       height="89.368273"
+       id="rect342" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5-1" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-6" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect1225" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g487"
+       transform="translate(-602.12049,-354.54163)">
+      <g
+         id="g9583"
+         transform="translate(602.12048,354.54166)"
+         inkscape:export-filename="spec_image\message_window.png"
+         inkscape:export-xdpi="95.750648"
+         inkscape:export-ydpi="95.750648">
+        <rect
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.406165;stroke-linecap:round;stroke-linejoin:round"
+           id="rect234"
+           width="508"
+           height="35.317036"
+           x="0"
+           y="0"
+           ry="0" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.48526588,0,0,0.48526588,-30.680582,-39.967125)"
+           id="text340"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';white-space:pre;shape-inside:url(#rect342);display:inline"><tspan
+             x="82"
+             y="129.56914"
+             id="tspan599"><tspan
+               style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff"
+               id="tspan597">2031/06/22</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.3399px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.458499"
+           x="141.51273"
+           y="21.409792"
+           id="text398"
+           transform="scale(0.99246876,1.0075884)"><tspan
+             sodipodi:role="line"
+             id="tspan396"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff;stroke-width:0.458499"
+             x="141.51273"
+             y="21.409792">あと1日</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.1556px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.40389"
+           x="428.86066"
+           y="21.595259"
+           id="text510"><tspan
+             sodipodi:role="line"
+             id="tspan508"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff;stroke-width:0.40389"
+             x="428.86066"
+             y="21.595259">精神力:12</tspan></text>
+      </g>
+      <g
+         id="g1372"
+         transform="translate(602.12049,343.57416)">
+        <rect
+           style="fill:#666666;fill-rule:evenodd;stroke:#363636;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1103"
+           width="440.78091"
+           height="67.705963"
+           x="33.609539"
+           y="197.07857" />
+        <text
+           xml:space="preserve"
+           style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';stroke-width:0.264583"
+           x="41.907864"
+           y="212.01544"
+           id="text1367"><tspan
+             sodipodi:role="line"
+             id="tspan1365"
+             style="fill:#e6e6e6;stroke-width:0.264583"
+             x="41.907864"
+             y="212.01544">主人公のセリフや地の文</tspan></text>
+      </g>
+      <rect
+         style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+         id="rect9314"
+         width="508"
+         height="285.75"
+         x="602.12048"
+         y="354.54166" />
+    </g>
+  </g>
+</svg>

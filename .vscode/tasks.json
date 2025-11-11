@@ -1,0 +1,70 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Debug",
+            "type": "shell",
+            "command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\MSBuild.exe",
+            "args": [
+                "Siv3DFrameWork.sln",
+                "/p:Configuration=Debug",
+                "/p:Platform=x64",
+                "/m"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "problemMatcher": "$msCompile",
+            "detail": "Build Siv3D project in Debug configuration"
+        },
+        {
+            "label": "Post Build - Copy Files",
+            "type": "shell",
+            "command": "cmd",
+            "args": [
+                "/c",
+                "xcopy /I /D /Y \"${workspaceFolder}\\Intermediate\\Siv3DFrameWork\\Debug\\Siv3DFrameWork(debug).exe\" \"${workspaceFolder}\\App\" && xcopy /I /D /Y \"${workspaceFolder}\\FrameWork\\PhysX\\_Debug\\_bin\\*.dll\" \"${workspaceFolder}\\Intermediate\\Siv3DFrameWork\\Debug\" && xcopy /I /D /Y \"${workspaceFolder}\\FrameWork\\llama_cpp\\_Debug\\dll\\*.dll\" \"${workspaceFolder}\\Intermediate\\Siv3DFrameWork\\Debug\""
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "dependsOn": "Build Debug",
+            "detail": "Copy executable and DLLs after build"
+        },
+        {
+            "label": "Post Build - Copy Files (NoCuda)",
+            "type": "shell",
+            "command": "cmd",
+            "args": [
+                "/c",
+                "xcopy /I /D /Y \"${workspaceFolder}\\Intermediate\\Siv3DFrameWorkNoCuda\\Debug\\Siv3DFrameWorkNoCuda(debug).exe\" \"${workspaceFolder}\\App\" && xcopy /I /D /Y \"${workspaceFolder}\\FrameWork\\PhysX\\_Debug\\_bin\\*.dll\" \"${workspaceFolder}\\Intermediate\\Siv3DFrameWorkNoCuda\\Debug\" && xcopy /I /D /Y \"${workspaceFolder}\\FrameWork\\llama_cpp\\DebugNoCuda\\dll\\*.dll\" \"${workspaceFolder}\\Intermediate\\Siv3DFrameWorkNoCuda\\Debug\""
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared",
+                "showReuseMessage": true,
+                "clear": false
+            },
+            "dependsOn": "Build Debug",
+            "detail": "Copy NoCuda executable and DLLs after build"
+        }
+    ]
+}

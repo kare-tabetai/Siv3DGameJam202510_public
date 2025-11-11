@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.74999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="passward_input_ui.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1145.513"
+     inkscape:cy="610.94026"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2153" />
+  <defs
+     id="defs2">
+    <rect
+       x="-6953.4716"
+       y="-1184"
+       width="565.99995"
+       height="65.999978"
+       id="rect3987" />
+    <rect
+       x="-6953.4716"
+       y="-1184"
+       width="565.99995"
+       height="65.999978"
+       id="rect3981" />
+    <rect
+       x="82"
+       y="89.368273"
+       width="512"
+       height="89.368273"
+       id="rect342" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5-1" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-6" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect1225" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect1512" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5-1-6" />
+    <rect
+       x="-6953.4716"
+       y="-1184"
+       width="565.99995"
+       height="65.999978"
+       id="rect3995" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2153"
+       transform="translate(16.014815)">
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458333,0,0,0.26458333,-16.014815,0)"
+         id="text3979"
+         style="font-weight:500;font-size:40px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';white-space:pre;shape-inside:url(#rect3981);display:inline" />
+      <g
+         id="g699"
+         transform="translate(17.57297,-39.710164)"
+         inkscape:export-filename="pass_ward_input_ui.png"
+         inkscape:export-xdpi="95.750648"
+         inkscape:export-ydpi="95.750648">
+        <rect
+           style="fill:#000000;fill-rule:evenodd;stroke-width:0.406165;stroke-linecap:round;stroke-linejoin:round"
+           id="rect234-2-5-1-4"
+           width="508"
+           height="35.317036"
+           x="-16.91151"
+           y="40.371655"
+           ry="0"
+           transform="translate(-16.014815)" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.48526588,0,0,0.48526588,-63.607027,0.40452709)"
+           id="text340-1-9-2-3"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';white-space:pre;shape-inside:url(#rect342-5-5-1-6);display:inline"><tspan
+             x="82"
+             y="129.56914"
+             id="tspan313"><tspan
+               style="font-weight:600;-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff"
+               id="tspan311">2031/06/22</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:18.3399px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.458499"
+           x="124.47278"
+           y="61.477409"
+           id="text398-9-7-1-1"
+           transform="matrix(0.99246876,0,0,1.0075884,-16.014815,0)"><tspan
+             sodipodi:role="line"
+             id="tspan396-6-9-8-1"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff;stroke-width:0.458499"
+             x="124.47278"
+             y="61.477409">あと1日</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:16.1556px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';stroke-width:0.40389"
+           x="411.9491"
+           y="61.9669"
+           id="text510-8-6-8-5"
+           transform="translate(-16.014815)"><tspan
+             sodipodi:role="line"
+             id="tspan508-6-5-3-9"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Semi-Bold';fill:#ffffff;stroke-width:0.40389"
+             x="411.9491"
+             y="61.9669">精神力:12</tspan></text>
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect9314-1-7-3-0"
+           width="508"
+           height="285.75"
+           x="-16.91151"
+           y="40.371624"
+           transform="translate(-16.014815)" />
+        <rect
+           style="fill:#9a9a9a;fill-opacity:1;fill-rule:evenodd;stroke-width:0.373318;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none"
+           id="rect1275-7"
+           width="268.60458"
+           height="176.38184"
+           x="102.786"
+           y="95.05571"
+           transform="translate(-16.014815)" />
+        <path
+           id="path997"
+           style="fill:#274c69;fill-opacity:1;stroke:none;stroke-width:0.0787266;stroke-opacity:1"
+           class="st0"
+           d="m 237.08849,104.19039 a 1.5316726,1.6383747 0 0 0 -0.7658,0.21938 l -32.8186,20.26815 a 1.5316726,1.6383747 0 0 0 -0.7657,1.41869 v 40.53554 a 1.5316726,1.6383747 0 0 0 0.7657,1.41854 l 32.8186,20.26815 a 1.5316726,1.6383747 0 0 0 1.5315,0 l 32.8188,-20.26815 a 1.5316726,1.6383747 0 0 0 0.7657,-1.41854 v -40.53554 a 1.5316726,1.6383747 0 0 0 -0.7657,-1.41869 l -32.8188,-20.26815 a 1.5316726,1.6383747 0 0 0 -0.7657,-0.21938 z m 0,3.52982 31.2873,19.3219 v 38.64455 l -31.2873,19.32189 -31.2872,-19.32189 v -38.64455 z m -0.2055,6.08634 a 1.1831309,1.2655523 0 0 0 -0.386,0.15033 l -25.3507,15.65595 a 1.1831309,1.2655523 0 0 0 -0.5914,1.09582 v 31.31146 a 1.1831309,1.2655523 0 0 0 0.5914,1.09582 l 25.3507,15.65596 a 1.1831309,1.2655523 0 0 0 1.1829,0 l 25.3507,-15.65596 a 1.1831309,1.2655523 0 0 0 0.5914,-1.09582 v -31.31146 a 1.1831309,1.2655523 0 0 0 -0.5914,-1.09582 l -25.3507,-15.65595 a 1.1831309,1.2655523 0 0 0 -0.7969,-0.15033 z m 0.2054,2.7073 24.1676,14.92515 v 29.85076 l -24.1676,14.925 -24.1676,-14.925 V 131.439 Z m -1e-4,15.25784 c -1.9979,-0.001 -3.9072,0.38835 -5.7726,1.13874 -1.8672,0.74965 -3.6893,1.85309 -5.5637,3.2713 -1.9714,1.49875 -3.9126,3.72329 -5.412,5.65544 -0.7478,0.96617 -1.3782,1.85634 -1.8328,2.55063 -0.2283,0.34784 -0.4112,0.64536 -0.5521,0.89655 -0.071,0.12759 -0.1306,0.24151 -0.1879,0.3691 -0.029,0.065 -0.057,0.13198 -0.087,0.22602 -0.015,0.0476 -0.032,0.10302 -0.046,0.17647 -0.014,0.0741 -0.031,0.16559 -0.032,0.30791 0,0.14176 0.017,0.23375 0.032,0.30777 0.03,0.14297 0.062,0.22222 0.089,0.29688 0.055,0.1385 0.1085,0.24297 0.1705,0.36079 0.2288,0.42576 0.5961,1.00274 1.0995,1.72797 0.7508,1.0808 1.7863,2.4507 2.9588,3.80207 1.1735,1.35129 2.4753,2.68128 3.8006,3.68604 1.8744,1.41886 3.6965,2.52145 5.5637,3.27176 1.8654,0.74974 3.7747,1.14003 5.7726,1.13873 1.9978,0.001 3.9072,-0.38899 5.7726,-1.13873 1.8665,-0.7504 3.6892,-1.85294 5.5636,-3.27116 1.9714,-1.49882 3.9127,-3.72335 5.412,-5.65559 0.7478,-0.96608 1.3782,-1.85626 1.8328,-2.55063 0.2282,-0.34841 0.4112,-0.64531 0.5521,-0.89714 0.071,-0.12751 0.1307,-0.24156 0.1879,-0.3685 0.028,-0.0651 0.057,-0.13209 0.087,-0.22678 0.015,-0.0476 0.031,-0.10227 0.046,-0.17571 0.014,-0.0741 0.031,-0.16616 0.032,-0.30792 0,-0.14224 -0.017,-0.23367 -0.032,-0.30776 -0.031,-0.14298 -0.061,-0.22279 -0.089,-0.29688 -0.055,-0.13842 -0.1084,-0.24278 -0.1704,-0.36125 -0.2288,-0.42568 -0.5961,-1.0022 -1.0995,-1.72751 -0.7515,-1.08072 -1.7864,-2.45003 -2.9588,-3.80132 -1.1736,-1.35129 -2.4753,-2.68196 -3.8007,-3.68679 -1.8743,-1.41887 -3.6971,-2.52202 -5.5636,-3.27176 -1.8654,-0.75031 -3.7748,-1.13996 -5.7726,-1.13874 z m 0,4.70043 c 5.1078,0 9.2475,4.42999 9.2475,9.89173 0,5.46296 -4.1397,9.89173 -9.2475,9.89173 -5.1079,0 -9.2476,-4.42877 -9.2476,-9.89173 0,-5.46174 4.1397,-9.89173 9.2476,-9.89173 z m -3e-4,1.17212 c -4.4959,0 -8.1517,3.91134 -8.1517,8.72037 0,4.80903 3.6558,8.71961 8.1517,8.71961 4.4958,0 8.1523,-3.91058 8.1523,-8.71961 0,-4.80903 -3.6565,-8.72037 -8.1523,-8.72037 z m 0,1.16034 c 3.9096,0 7.0675,3.37809 7.0675,7.56003 0,4.18193 -3.1579,7.55927 -7.0675,7.55927 -3.9096,0 -7.067,-3.37734 -7.067,-7.55927 0,-4.18194 3.1574,-7.56003 7.067,-7.56003 z m 0,0.66584 c -3.553,0 -6.4445,3.0937 -6.4445,6.89419 0,3.80048 2.8915,6.89343 6.4445,6.89343 3.553,2e-5 6.445,-3.09293 6.445,-6.89343 0,-3.8005 -2.892,-6.8942 -6.445,-6.89419 z m 0,1.16034 c 2.9667,-1e-5 5.3603,2.56044 5.3603,5.73385 0,3.1734 -2.3936,5.73311 -5.3603,5.7331 -2.9667,-1e-5 -5.3597,-2.55971 -5.3597,-5.7331 0,-3.1734 2.393,-5.73385 5.3597,-5.73385 z m 0,0.67278 c -2.605,1e-5 -4.7309,2.27462 -4.7309,5.06107 0,2.78644 2.1259,5.06045 4.7309,5.06046 2.605,1e-5 4.7314,-2.27401 4.7314,-5.06046 0,-2.78646 -2.1264,-5.06108 -4.7314,-5.06107 z m 0,1.44408 c 1.8752,-1e-5 3.3814,1.6111 3.3814,3.61699 0,2.00589 -1.5062,3.61624 -3.3814,3.61624 -1.8753,-1e-5 -3.3809,-1.61037 -3.3809,-3.61624 0,-2.00588 1.5056,-3.61699 3.3809,-3.61699 z"
+           transform="translate(-16.014815)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="168.46642"
+           y="216.11787"
+           id="text1887-9"><tspan
+             sodipodi:role="line"
+             id="tspan1885-4"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif';text-align:end;text-anchor:end;fill:#274c69;fill-opacity:1;stroke-width:0.264583"
+             x="168.46642"
+             y="216.11787">国民番号:</tspan></text>
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#274c69;stroke-width:1.13771;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1153"
+           width="149.75417"
+           height="17.4625"
+           x="179.31151"
+           y="203.2" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';text-align:end;text-anchor:end;stroke-width:0.264583"
+           x="168.46642"
+           y="239.69106"
+           id="text2143"><tspan
+             sodipodi:role="line"
+             id="tspan2141"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif';text-align:end;text-anchor:end;fill:#274c69;fill-opacity:1;stroke-width:0.264583"
+             x="168.46642"
+             y="239.69106">パスワード:</tspan></text>
+        <rect
+           style="fill:none;fill-rule:evenodd;stroke:#274c69;stroke-width:1.13771;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+           id="rect2145"
+           width="149.75417"
+           height="17.4625"
+           x="179.31151"
+           y="227.19743" />
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2023.5821,542.34264)"
+           id="text3985"
+           style="font-weight:500;font-size:40px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';white-space:pre;shape-inside:url(#rect3987);display:inline"><tspan
+             x="-6953.4727"
+             y="-1143.8"
+             id="tspan317"><tspan
+               style="font-weight:normal;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif'"
+               id="tspan315">●●●●●●●●●●●●●</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           transform="matrix(0.26458333,0,0,0.26458333,2023.5821,518.3452)"
+           id="text3993"
+           style="font-weight:500;font-size:40px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';white-space:pre;shape-inside:url(#rect3995);display:inline"><tspan
+             x="-6953.4727"
+             y="-1143.8"
+             id="tspan321"><tspan
+               style="font-weight:normal;font-family:'Source Han Serif';-inkscape-font-specification:'Source Han Serif'"
+               id="tspan319">FD1623142</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

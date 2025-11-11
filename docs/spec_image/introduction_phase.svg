@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.74999"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="introduction_phase.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="1267.1354"
+     inkscape:cy="1193.5962"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="82"
+       y="89.368273"
+       width="512"
+       height="89.368273"
+       id="rect342" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-5-1" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect342-5-6" />
+    <rect
+       x="82"
+       y="89.368271"
+       width="512"
+       height="89.368271"
+       id="rect1225" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#1a1a1a;fill-rule:evenodd;stroke:#363636;stroke-width:1.32292;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9202"
+       width="508"
+       height="285.75"
+       x="0.32326785"
+       y="0.1563932"
+       inkscape:export-filename="spec_image\introduction.png"
+       inkscape:export-xdpi="95.750648"
+       inkscape:export-ydpi="95.750648" />
+    <text
+       xml:space="preserve"
+       style="font-weight:500;font-size:10.5833px;line-height:1.25;font-family:'kurobara gothic';-inkscape-font-specification:'kurobara gothic Medium';text-align:center;text-anchor:middle;stroke-width:0.264583"
+       x="256.98978"
+       y="140.2047"
+       id="text9258"><tspan
+         sodipodi:role="line"
+         id="tspan9256"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';text-align:center;text-anchor:middle;fill:#ececec;stroke-width:0.264583"
+         x="256.98978"
+         y="140.2047">2030年、日本では統合人材AI管理法とその関連法が施行され、</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:'IBM Plex Sans JP';-inkscape-font-specification:'IBM Plex Sans JP Medium';text-align:center;text-anchor:middle;fill:#ececec;stroke-width:0.264583"
+         x="256.98978"
+         y="153.6521"
+         id="tspan9260">すべての企業は日本政府中央採用AIシステム「モノアイを通してのみ採用を行えるようになった。</tspan></text>
+  </g>
+</svg>

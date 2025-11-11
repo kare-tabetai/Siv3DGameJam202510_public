@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="flecs">
+      <UniqueIdentifier>{d0092e5e-cec0-48da-a80e-32b277a30d03}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SingletonCD">
+      <UniqueIdentifier>{d54b5644-a85e-45d1-8486-aa857c90c044}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="System">
+      <UniqueIdentifier>{c8848448-d463-43db-abba-27fdb4d0fbd3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CD">
+      <UniqueIdentifier>{93aaf270-becf-4f37-bbe2-d727230dfa01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LlamaCpp">
+      <UniqueIdentifier>{8074a3d5-c671-417a-a88e-a458782989f7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SharedCD">
+      <UniqueIdentifier>{70309023-6020-4704-be97-6c8aee58ed8c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Util">
+      <UniqueIdentifier>{f4b8f123-1234-4567-8901-234567890123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{a1b2c3d4-5678-9abc-def0-123456789abc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Misc">
+      <UniqueIdentifier>{b2c3d4e5-6789-0abc-def1-234567890def}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{d4e5f6a7-8901-2cde-f123-4567890ef012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\base_system">
+      <UniqueIdentifier>{e5f6a7b8-9012-3def-0234-567890ef0123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\utility">
+      <UniqueIdentifier>{f6a7b8c9-0123-4ef0-1345-67890ef01234}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\work_phase">
+      <UniqueIdentifier>{a1b2c3d4-5678-9abc-def0-123456789012}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\bad_end_phase">
+      <UniqueIdentifier>{b2c3d4e5-6789-0abc-def1-234567890123}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\sunset_phase">
+      <UniqueIdentifier>{c3d4e5f6-7890-1bcd-ef12-345678901234}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\night_dream_phase">
+      <UniqueIdentifier>{c4d5e6f7-7891-1bce-ef13-345678901235}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\sunrise_phase">
+      <UniqueIdentifier>{d4e5f6a7-8901-2cde-f123-456789012345}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\introduction_phase">
+      <UniqueIdentifier>{e5f6a7b8-9012-3def-0234-567890123456}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\game_over_phase">
+      <UniqueIdentifier>{f6a7b8c9-0123-4ef0-1345-678901234567}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\game_clear_phase">
+      <UniqueIdentifier>{a7b8c9d0-1234-5ef1-2456-789012345678}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\event_phase">
+      <UniqueIdentifier>{b8c9d0e1-2345-6ef2-3567-890123456789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\job_search_phase">
+      <UniqueIdentifier>{c9d0e1f2-3456-7ef3-4678-901234567890}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\sister_message_phase">
+      <UniqueIdentifier>{d1e2f3a4-4567-8b90-cdef-0123456789ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game\llm_chat">
+      <UniqueIdentifier>{e2f3a4b5-5678-9c01-def0-1234567890bc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp" />
+    <ClCompile Include="FrameWork\flecs\flecs.c">
+      <Filter>flecs</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaConfig.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaComponents.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaContext.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaModel.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaModelManager.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaSampler.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaTextGenerator.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaTextBuffer.h">
+      <Filter>LlamaCpp</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\Misc\LlmScoreCalculator.h">
+      <Filter>Misc</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\UI\ChatMessageItem.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\UI\ChatMessageWindow.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\UI\DialogWindow.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\UI\LlmChatTestUI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\UI\LlmTestChatUI.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\UI\MessageAreaStyle.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\Util\FontUtil.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\Util\Pulldown.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\Util\PxUtil.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="FrameWork\Util\WebUtil.h">
+      <Filter>Util</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\BlackOutUI.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\BackGroundManager.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\CommonUI.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\GameCommonData.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\GameManager.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\MessageWindowUI.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\PhaseManager.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\SisterMessageUI.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\SisterMessageUIManager.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\base_system\DebugSystem.h">
+      <Filter>Game\base_system</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\ConfirmDialog.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\DebugUtil.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\FontManager.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\GameConst.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\iPhase.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\LlmUtil.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\MouseEffectManager.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\PhaseType.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\SoundManager.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\TweenUtil.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\UiConst.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\work_phase\HexBolt.h">
+      <Filter>Game\work_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\work_phase\MachineParts.h">
+      <Filter>Game\work_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\work_phase\WorkPhase.h">
+      <Filter>Game\work_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\bad_end_phase\BadEndPhase.h">
+      <Filter>Game\bad_end_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\sunset_phase\SunsetPhase.h">
+      <Filter>Game\sunset_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\night_dream_phase\NightDreamPhase.h">
+      <Filter>Game\night_dream_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\sunrise_phase\SunrisePhase.h">
+      <Filter>Game\sunrise_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\introduction_phase\IntroductionPhase.h">
+      <Filter>Game\introduction_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\game_over_phase\GameOverPhase.h">
+      <Filter>Game\game_over_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\game_clear_phase\GameClearPhase.h">
+      <Filter>Game\game_clear_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\job_search_phase\RejectionInfo.h">
+      <Filter>Game\job_search_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\job_search_phase\PasswordInputUI.h">
+      <Filter>Game\job_search_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\job_search_phase\LoadingUI.h">
+      <Filter>Game\job_search_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\job_search_phase\ResumeUI.h">
+      <Filter>Game\job_search_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\job_search_phase\RejectionListUI.h">
+      <Filter>Game\job_search_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\job_search_phase\JobSearchPhase.h">
+      <Filter>Game\job_search_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\sister_message_phase\SisterMessagePhase.h">
+      <Filter>Game\sister_message_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\llm_chat\LlmChatTestUI.h">
+      <Filter>Game\llm_chat</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\llm_chat\LlmChatWindow.h">
+      <Filter>Game\llm_chat</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="App\Resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="App\engine\texture\box-shadow\128.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\engine\texture\box-shadow\16.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\engine\texture\box-shadow\256.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\engine\texture\box-shadow\32.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\engine\texture\box-shadow\64.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\engine\texture\box-shadow\8.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\bay.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\gif\test.gif">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\obj\bark.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\obj\leaves.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\obj\pine_leaves_red.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\obj\siv3d-kun-eye.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\obj\siv3d-kun.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\particle.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\siv3d-kun.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\spritesheet\siv3d-kun-16.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\texture\earth.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\texture\grass.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\texture\ground.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\texture\rock.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\texture\uv.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\texture\wood.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\example\windmill.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="App\icon.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="App\dll\soundtouch\COPYING.TXT" />
+    <Text Include="App\engine\font\fontawesome\LICENSE.txt" />
+    <Text Include="App\engine\soundfont\GMGSx.sf2.txt" />
+    <Text Include="App\example\font\DotGothic16\OFL.txt" />
+    <Text Include="App\example\font\RocknRoll\OFL.txt" />
+    <Text Include="App\example\LICENSE.txt" />
+    <Text Include="App\example\midi\test.txt" />
+    <Text Include="App\example\obj\credit.txt" />
+    <Text Include="App\example\spritesheet\siv3d-kun-16.txt" />
+    <Text Include="App\example\svg\README.txt" />
+    <Text Include="App\example\texture\credit.txt" />
+    <Text Include="App\example\txt\en.txt" />
+    <Text Include="App\example\txt\jp.txt" />
+    <Text Include="App\example\txt\kr.txt" />
+    <Text Include="App\example\txt\sc.txt" />
+    <Text Include="App\example\video\river.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Game\job_search_phase\ServerLoadingUI.h">
+      <Filter>Game\job_search_phase</Filter>
+    </ClInclude>
+    <ClInclude Include="Game\utility\RotatingIcon.h">
+      <Filter>Game\utility</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

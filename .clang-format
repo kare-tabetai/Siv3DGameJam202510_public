@@ -1,0 +1,26 @@
+BasedOnStyle: Google
+AccessModifierOffset: 0
+AlignAfterOpenBracket: Align
+AlignArrayOfStructures: Left
+AlignConsecutiveAssignments: None
+AlignConsecutiveDeclarations: None
+AlignConsecutiveMacros: None
+AlignEscapedNewlines: Left
+AlignOperands: Align
+AlignTrailingComments: true
+DeriveLineEnding: true
+IndentAccessModifiers: false
+Language: Cpp
+NamespaceIndentation: None
+PointerAlignment: Left
+ReferenceAlignment: Pointer
+Standard: Auto
+UseCRLF: false
+UseTab: Never
+IndentWidth: 2
+TabWidth: 2
+ContinuationIndentWidth: 2
+BreakBeforeBraces: Custom
+BraceWrapping:
+IndentBraces: false
+ColumnLimit: 0

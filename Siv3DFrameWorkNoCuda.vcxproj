@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{A8D5F5E1-2A0F-4E58-A8AF-27E5A5F4B9A0}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>Siv3DFrameWorkNoCuda</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>$(SolutionDir)Intermediate\$(ProjectName)\Debug\</OutDir>
+    <IntDir>$(SolutionDir)Intermediate\$(ProjectName)\Debug\Intermediate\</IntDir>
+    <TargetName>$(ProjectName)(debug)</TargetName>
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)App</LocalDebuggerWorkingDirectory>
+    <IncludePath>$(SIV3D_0_6_16)\include;$(SIV3D_0_6_16)\include\ThirdParty;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SIV3D_0_6_16)\lib\Windows;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+    <OutDir>$(SolutionDir)Intermediate\$(ProjectName)\Release\</OutDir>
+    <IntDir>$(SolutionDir)Intermediate\$(ProjectName)\Release\Intermediate\</IntDir>
+    <LocalDebuggerWorkingDirectory>$(ProjectDir)App</LocalDebuggerWorkingDirectory>
+    <IncludePath>$(SIV3D_0_6_16)\include;$(SIV3D_0_6_16)\include\ThirdParty;$(IncludePath)</IncludePath>
+    <LibraryPath>$(SIV3D_0_6_16)\lib\Windows;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_WINDOWS;_ENABLE_EXTENDED_ALIGNED_STORAGE;_SILENCE_CXX20_CISO646_REMOVED_WARNING;_SILENCE_ALL_CXX23_DEPRECATION_WARNINGS;_SILENCE_ALL_MS_EXT_DEPRECATION_WARNINGS;WIN32_LEAN_AND_MEAN;NOMINMAX;FLECS_NO_REST;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <DisableSpecificWarnings>26451;26812;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <AdditionalOptions>/Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <BuildStlModules>false</BuildStlModules>
+      <AdditionalIncludeDirectories>$(ProjectDir)FrameWork;FrameWork/PhysX/include;FrameWork/llama_cpp/include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <DelayLoadDLLs>advapi32.dll;crypt32.dll;dwmapi.dll;gdi32.dll;imm32.dll;ole32.dll;oleaut32.dll;opengl32.dll;shell32.dll;shlwapi.dll;user32.dll;winmm.dll;ws2_32.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <AdditionalLibraryDirectories>FrameWork/PhysX/_$(Configuration)/lib/;FrameWork/llama_cpp/$(Configuration)NoCuda/lib/</AdditionalLibraryDirectories>
+      <AdditionalDependencies>LowLevel_static_64.lib;LowLevelAABB_static_64.lib;LowLevelDynamics_static_64.lib;PhysX_64.lib;PhysXCharacterKinematic_static_64.lib;PhysXCommon_64.lib;PhysXCooking_64.lib;PhysXExtensions_static_64.lib;PhysXFoundation_64.lib;PhysXPvdSDK_static_64.lib;PhysXTask_static_64.lib;PhysXVehicle_static_64.lib;PhysXVehicle2_static_64.lib;PVDRuntime_64.lib;SceneQuery_static_64.lib;SimulationController_static_64.lib;SnippetRender_static_64.lib;SnippetUtils_static_64.lib;llama.lib;ggml.lib;ggml-base.lib;ggml-cpu.lib;common.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy /I /D /Y "$(OutDir)$(TargetFileName)" "$(ProjectDir)App"
+xcopy /I /D /Y "$(ProjectDir)FrameWork\PhysX\_$(Configuration)\_bin\*.dll" "$(ProjectDir)Intermediate\Siv3DFrameWorkNoCuda\$(Configuration)"
+xcopy /I /D /Y "$(ProjectDir)FrameWork\llama_cpp\$(Configuration)NoCuda\dll\*.dll" "$(ProjectDir)Intermediate\Siv3DFrameWorkNoCuda\$(Configuration)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level4</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_WINDOWS;_ENABLE_EXTENDED_ALIGNED_STORAGE;_SILENCE_CXX20_CISO646_REMOVED_WARNING;_SILENCE_ALL_CXX23_DEPRECATION_WARNINGS;_SILENCE_ALL_MS_EXT_DEPRECATION_WARNINGS;WIN32_LEAN_AND_MEAN;NOMINMAX;FLECS_NO_REST;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+      <LanguageStandard>stdcpplatest</LanguageStandard>
+      <DisableSpecificWarnings>26451;26812;%(DisableSpecificWarnings)</DisableSpecificWarnings>
+      <AdditionalOptions>/Zc:__cplusplus %(AdditionalOptions)</AdditionalOptions>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <BuildStlModules>false</BuildStlModules>
+      <AdditionalIncludeDirectories>$(ProjectDir)FrameWork;FrameWork/PhysX/include;FrameWork/llama_cpp/include</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <SubSystem>Windows</SubSystem>
+      <DelayLoadDLLs>advapi32.dll;crypt32.dll;dwmapi.dll;gdi32.dll;imm32.dll;ole32.dll;oleaut32.dll;opengl32.dll;shell32.dll;shlwapi.dll;user32.dll;winmm.dll;ws2_32.dll;%(DelayLoadDLLs)</DelayLoadDLLs>
+      <AdditionalLibraryDirectories>FrameWork/PhysX/_$(Configuration)/lib/;FrameWork/llama_cpp/$(Configuration)NoCuda/lib/</AdditionalLibraryDirectories>
+      <AdditionalDependencies>LowLevel_static_64.lib;LowLevelAABB_static_64.lib;LowLevelDynamics_static_64.lib;PhysX_64.lib;PhysXCharacterKinematic_static_64.lib;PhysXCommon_64.lib;PhysXCooking_64.lib;PhysXExtensions_static_64.lib;PhysXFoundation_64.lib;PhysXPvdSDK_static_64.lib;PhysXTask_static_64.lib;PhysXVehicle_static_64.lib;PhysXVehicle2_static_64.lib;PVDRuntime_64.lib;SceneQuery_static_64.lib;SimulationController_static_64.lib;SnippetRender_static_64.lib;SnippetUtils_static_64.lib;llama.lib;ggml.lib;ggml-base.lib;ggml-cpu.lib;common.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+    <PostBuildEvent>
+      <Command>xcopy /I /D /Y "$(OutDir)$(TargetFileName)" "$(ProjectDir)App"
+xcopy /I /D /Y "$(ProjectDir)FrameWork\PhysX\_$(Configuration)\_bin\*.dll" "$(ProjectDir)Intermediate\Siv3DFrameWorkNoCuda\$(Configuration)"
+xcopy /I /D /Y "$(ProjectDir)FrameWork\llama_cpp\$(Configuration)NoCuda\dll\*.dll" "$(ProjectDir)Intermediate\Siv3DFrameWorkNoCuda\$(Configuration)"</Command>
+    </PostBuildEvent>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="FrameWork\flecs\flecs.c" />
+    <ClCompile Include="Main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="App\engine\texture\box-shadow\128.png" />
+    <Image Include="App\engine\texture\box-shadow\16.png" />
+    <Image Include="App\engine\texture\box-shadow\256.png" />
+    <Image Include="App\engine\texture\box-shadow\32.png" />
+    <Image Include="App\engine\texture\box-shadow\64.png" />
+    <Image Include="App\engine\texture\box-shadow\8.png" />
+    <Image Include="App\example\bay.jpg" />
+    <Image Include="App\example\gif\test.gif" />
+    <Image Include="App\example\obj\bark.jpg" />
+    <Image Include="App\example\obj\leaves.png" />
+    <Image Include="App\example\obj\pine_leaves_red.png" />
+    <Image Include="App\example\obj\siv3d-kun-eye.png" />
+    <Image Include="App\example\obj\siv3d-kun.png" />
+    <Image Include="App\example\particle.png" />
+    <Image Include="App\example\siv3d-kun.png" />
+    <Image Include="App\example\spritesheet\siv3d-kun-16.png" />
+    <Image Include="App\example\texture\earth.jpg" />
+    <Image Include="App\example\texture\grass.jpg" />
+    <Image Include="App\example\texture\ground.jpg" />
+    <Image Include="App\example\texture\rock.jpg" />
+    <Image Include="App\example\texture\uv.png" />
+    <Image Include="App\example\texture\wood.jpg" />
+    <Image Include="App\example\windmill.png" />
+    <Image Include="App\icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="App\Resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="App\dll\soundtouch\COPYING.TXT" />
+    <Text Include="App\engine\font\fontawesome\LICENSE.txt" />
+    <Text Include="App\engine\soundfont\GMGSx.sf2.txt" />
+    <Text Include="App\example\font\DotGothic16\OFL.txt" />
+    <Text Include="App\example\font\RocknRoll\OFL.txt" />
+    <Text Include="App\example\LICENSE.txt" />
+    <Text Include="App\example\midi\test.txt" />
+    <Text Include="App\example\obj\credit.txt" />
+    <Text Include="App\example\spritesheet\siv3d-kun-16.txt" />
+    <Text Include="App\example\svg\README.txt" />
+    <Text Include="App\example\texture\credit.txt" />
+    <Text Include="App\example\txt\en.txt" />
+    <Text Include="App\example\txt\jp.txt" />
+    <Text Include="App\example\txt\kr.txt" />
+    <Text Include="App\example\txt\sc.txt" />
+    <Text Include="App\example\video\river.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include=".editorconfig" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaConfig.h" />
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaComponents.h" />
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaContext.h" />
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaModel.h" />
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaModelManager.h" />
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaSampler.h" />
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaTextGenerator.h" />
+    <ClInclude Include="FrameWork\LlamaCpp\LlamaTextBuffer.h" />
+    <ClInclude Include="FrameWork\Misc\LlmScoreCalculator.h" />
+    <ClInclude Include="FrameWork\UI\ChatMessageItem.h" />
+    <ClInclude Include="FrameWork\UI\ChatMessageWindow.h" />
+    <ClInclude Include="FrameWork\UI\DialogWindow.h" />
+    <ClInclude Include="FrameWork\UI\LlmChatTestUI.h" />
+    <ClInclude Include="FrameWork\UI\LlmTestChatUI.h" />
+    <ClInclude Include="FrameWork\UI\MessageAreaStyle.h" />
+    <ClInclude Include="FrameWork\Util\FontUtil.h" />
+    <ClInclude Include="FrameWork\Util\Pulldown.h" />
+    <ClInclude Include="FrameWork\Util\PxUtil.h" />
+    <ClInclude Include="FrameWork\Util\WebUtil.h" />
+    <ClInclude Include="Game\base_system\BackGroundManager.h" />
+    <ClInclude Include="Game\base_system\BlackOutUI.h" />
+    <ClInclude Include="Game\base_system\CommonUI.h" />
+    <ClInclude Include="Game\base_system\GameCommonData.h" />
+    <ClInclude Include="Game\base_system\GameManager.h" />
+    <ClInclude Include="Game\base_system\MessageWindowUI.h" />
+    <ClInclude Include="Game\base_system\PhaseManager.h" />
+    <ClInclude Include="Game\base_system\SisterMessageUI.h" />
+    <ClInclude Include="Game\base_system\SisterMessageUIManager.h" />
+    <ClInclude Include="Game\base_system\DebugSystem.h" />
+    <ClInclude Include="Game\utility\ConfirmDialog.h" />
+    <ClInclude Include="Game\utility\DebugUtil.h" />
+    <ClInclude Include="Game\utility\FontManager.h" />
+    <ClInclude Include="Game\utility\GameConst.h" />
+    <ClInclude Include="Game\utility\iPhase.h" />
+    <ClInclude Include="Game\utility\LlmUtil.h" />
+    <ClInclude Include="Game\utility\MouseEffectManager.h" />
+    <ClInclude Include="Game\utility\PhaseType.h" />
+    <ClInclude Include="Game\utility\SoundManager.h" />
+    <ClInclude Include="Game\utility\TweenUtil.h" />
+    <ClInclude Include="Game\utility\UiConst.h" />
+    <ClInclude Include="Game\work_phase\HexBolt.h" />
+    <ClInclude Include="Game\work_phase\MachineParts.h" />
+    <ClInclude Include="Game\work_phase\WorkPhase.h" />
+    <ClInclude Include="Game\bad_end_phase\BadEndPhase.h" />
+    <ClInclude Include="Game\sunset_phase\SunsetPhase.h" />
+    <ClInclude Include="Game\night_dream_phase\NightDreamPhase.h" />
+    <ClInclude Include="Game\sunrise_phase\SunrisePhase.h" />
+    <ClInclude Include="Game\introduction_phase\IntroductionPhase.h" />
+    <ClInclude Include="Game\game_over_phase\GameOverPhase.h" />
+    <ClInclude Include="Game\game_clear_phase\GameClearPhase.h" />
+    <ClInclude Include="Game\job_search_phase\RejectionInfo.h" />
+    <ClInclude Include="Game\job_search_phase\PasswordInputUI.h" />
+    <ClInclude Include="Game\job_search_phase\LoadingUI.h" />
+    <ClInclude Include="Game\job_search_phase\ResumeUI.h" />
+    <ClInclude Include="Game\job_search_phase\RejectionListUI.h" />
+    <ClInclude Include="Game\job_search_phase\JobSearchPhase.h" />
+    <ClInclude Include="Game\sister_message_phase\SisterMessagePhase.h" />
+    <ClInclude Include="Game\llm_chat\LlmChatTestUI.h" />
+    <ClInclude Include="Game\llm_chat\LlmChatWindow.h" />
+    <ClInclude Include="Game\job_search_phase\ServerLoadingUI.h" />
+    <ClInclude Include="Game\utility\RotatingIcon.h" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
